@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience @ CMU"
+title: "Teaching @ CMU"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/CMU
 venue: "Carnegie Melon University, Department of Mathematics"
 date: 2019-08-15
