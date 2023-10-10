@@ -2,7 +2,7 @@
 title: "Teaching experience @ CMU"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/concepts127
+permalink: /teaching/CMU
 venue: "Carnegie Melon University, Department of Mathematics"
 date: 2019-08-15
 location: "Pittsburgh, PA"
