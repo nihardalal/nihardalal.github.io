@@ -1,3 +1,10 @@
+---
+title: "Deciphering Baryonic Feedback with galaxy clusters"
+collection: publications
+type: "journal paper"
+permalink: /publications/baryon1
+date: 2024-01-31
+---
 **Deciphering Baryonic Feedback with galaxy clusters**
 [arxiv](https://arxiv.org/abs/2402.00110)
 
