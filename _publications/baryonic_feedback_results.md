@@ -1,3 +1,10 @@
+---
+title: "Deciphering Baryonic Feedback from ACT tSZ Galaxy Clusters"
+collection: publications
+type: "journal paper"
+permalink: /publications/baryon2
+date: 2025-07-15
+---
 **Deciphering Baryonic Feedback from ACT tSZ Galaxy Clusters**
 [arxiv](https://arxiv.org/abs/2507.04476)
 
