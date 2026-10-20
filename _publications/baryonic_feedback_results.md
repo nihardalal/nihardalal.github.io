@@ -6,7 +6,7 @@ permalink: /publications/baryon2
 date: 2025-07-15
 ---
 **Deciphering Baryonic Feedback from ACT tSZ Galaxy Clusters**
-[arxiv](https://arxiv.org/abs/2507.04476)
+[arxiv](https://arxiv.org/abs/2507.04476) [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2026/03/036/pdf)
 
 _Nihar Dalal, Chun-Hao To, Chris Hirata, Tae Hyeon-Shin, Matt Hilton, Shivam Pandey, J. Richard Bond_
 
