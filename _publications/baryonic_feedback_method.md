@@ -6,7 +6,7 @@ permalink: /publications/baryon1
 date: 2024-01-31
 ---
 **Deciphering Baryonic Feedback with galaxy clusters**
-[arxiv](https://arxiv.org/abs/2402.00110)
+[arxiv](https://arxiv.org/abs/2402.00110) [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2024/07/037/pdf)
 
 _Chun-Hao To, Shivam Pandey, Elisabeth Krause, Nihar Dalal, Dhayaa Anbajagane, David H. Weinberg_
 
