@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student in the Department of Physics at the Ohio State University, with broad interests in cosmology. I am advised by Professor Chris Hirata, and work closely with Dr. Chun-Hao To. My current project is building a cosmology analysis pipeline for SZ selected galaxy clusters. We plan to analyze data from the Dark Energy Survey and the Atacama Cosmology Telescope to improve our constraints on cosmological parameters. As part of this effort, I am also interested in models of baryonic feedback and their effects on our data vectors. 
+I'm a fifth year graduate student in the Department of Physics at the Ohio State University, with broad interests in cosmology. I am advised by Professor Chris Hirata, and work closely with Dr. Chun-Hao To. I'm a member of the [Roman High Latitude Imaging Survey Cosmology Project](https://roman-hlis-cosmology.caltech.edu/) Infrastructure Team, where I work on the point spread function of the telescope, and modeling baryonic feedback for cosmic shear. In the past, I've worked on using tSZ clusters from ACT and DES to constrain baryonic feedback. I'll be starting a DOE SCGSR at Argonne National Lab in the spring working with Dr. Andrew Hearin on more physical models for intrinsic alignments in simulations.    
 
 I recently graduated with a bachelors in mathematics and physics from Carnegie Mellon University, where I was active as a teaching assistant for 15-151/21-128. I was also a residential assistant at Stever House.
 
